@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "pwm_left": 1,
+  "pwm_right": 0,
+  "pwm_back" : 2,
+  "lights" : "PWM",
+  "deadband_range": "50",
+  "shield_pin": 19
+}
